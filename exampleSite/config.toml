@@ -1,4 +1,4 @@
-baseURL = "https://danhtranit.com"
+baseURL = "https://danhtran.netlify.app/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
